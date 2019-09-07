@@ -1,0 +1,3 @@
+git remote set-url origin https://USERNAME@github.com/USERNAME/PROJECTNAME.git
+
+git remote set-url origin git@github.com:AnilkumarGT/sb-pc-mysql-dc.git
